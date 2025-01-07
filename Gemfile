@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.4'
+gem 'jekyll', '~> 3.10.0'
 
 gem 'minima', '~> 2.5'
 
@@ -21,4 +21,8 @@ gem 'http_parser.rb', '~> 0.6.0', platforms: [:jruby]
 
 gem 'rubocop', require: false
 
-gem 'jekyll-remote-theme', group: :jekyll_plugins
+gem 'github-pages', group: :jekyll_plugins
+
+# gem 'jekyll-theme-yat'
+
+# gem 'jekyll-athena'

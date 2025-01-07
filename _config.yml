@@ -1,14 +1,21 @@
+# Site 
 title: EL's Shelf (dev)
 description: >- 
   Eryn's reading journal (dev)
 baseurl: / 
 url: "https://ayeryn.github.io" 
-# theme: minima
-remote_theme: "jeffreytse/jekyll-theme-yat"
 
+# Author
+author:
+  name: EL
+  email: test@test.com
+
+# Build
+# theme: jekyll-theme-yat
+remote_theme: broccolini/swiss
+theme_color: blue
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
 
 
 
