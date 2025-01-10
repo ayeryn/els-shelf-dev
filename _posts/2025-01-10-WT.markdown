@@ -1,0 +1,56 @@
+---
+layout: single
+title: "[2025] World Tour Challenge"
+date: 2025-01-10
+categories: challenge
+---
+
+Prompts completed: 3 / **8**
+
+- [Log](#log)
+- [Challenge Details](#challenge-details)
+  - [Link](#link)
+  - [Requirements](#requirements)
+  - [Prompts](#prompts)
+
+## Log
+
+> _Books and authors link to Goodreads pages (when available)_
+
+| Country      | Book (link to GR)             | Author | Language | Review (/10) |
+| ------------ | ----------------------------- | ------ | -------- | ------------ |
+| **China**    | The Seventh Day               |        | Chinese  |              |
+| **China**    |                               |        |          |              |
+| **Poland**   |                               |        |          |              |
+| **Poland**   |                               |        |          |              |
+| **Norway**   | The Bat                       |        |          |              |
+| **Columbia** | Chronicle of A Death Foretold |        |          |              |
+| **Italy**    | The Lost Daughter             |        |          |              |
+| **Poland**   | Empusium                      |        |          |              |
+
+## Challenge Details
+
+### Link
+
+Original Goodreads reading challenge: [link](https://www.goodreads.com/topic/show/22988152-world-tour-challenge-2025)
+
+### Requirements
+
+🌍8 item challenge.
+
+🌍All must be completed within 2025.
+
+🌍For recommendations: The other member should consider the shelf of the other member and what they like before recommending 3-5 books.
+
+🌍For WT Buddy Read: This can be a book put forward by the member or joining in any other WT Buddy Read proposed by another.
+
+### Prompts
+
+1. Choose a country and read one book set in or written by an author of that country.
+2. Read a second book set in or written by an author of that same country.
+3. Choose a different country and read one book set in or written by an author of that country.
+4. Read a second book set in or written by an author of that same country.
+5. Free read any book set in or written by an author of another country not your own! Must be different from the 2 countries above.
+6. Free read any book set in or written by an author of another country not your own! Must be different from the 3 countries above.
+7. Choose a country. Ask another group member to recommend you 3-5 books set in or written by an author of that country. Choose one and read it! Crossing this off does not count towards the other 7 prompts and is considered separate. This can be a new country or a repeated country.
+8. Participate in any group WT Buddy Read. A buddy read you or someone else proposes to help complete this challenge! Crossing this off does not count towards the other 7 prompts and is considered separate. This can be a new country or a repeated country.

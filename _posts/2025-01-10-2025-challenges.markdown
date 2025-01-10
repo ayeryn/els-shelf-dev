@@ -1,8 +1,0 @@
----
-layout: single
-title: "2025 Reading Challenges"
-date: 2025-01-10
-categories: challenge
----
-
-2025 challenge, TBD....
