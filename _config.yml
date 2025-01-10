@@ -41,6 +41,9 @@ collections:
   challenge:
     output: true
     permalink: /:collection/:path/
+  review:
+    output: true
+    permalink: /:collection/:path/
 
 
 
