@@ -22,3 +22,5 @@ gem 'http_parser.rb', '~> 0.6.0', platforms: [:jruby]
 gem 'rubocop', require: false
 
 gem 'github-pages', group: :jekyll_plugins
+
+gem 'jekyll-github-metadata'
