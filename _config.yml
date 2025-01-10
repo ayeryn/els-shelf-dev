@@ -8,8 +8,16 @@ include: ["_pages"]
 
 # Author
 author:
-  name: EL
-  email: test@test.com
+  name: Eryn
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "I am an **amazing** person."
+  location: "USA"
+  links:
+    - label: "Goodreads"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.goodreads.com/user/show/6110731-eryn"
+
+
 
 # Build
 # theme: jekyll-theme-yat
