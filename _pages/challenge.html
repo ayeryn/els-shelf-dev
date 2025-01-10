@@ -1,0 +1,17 @@
+---
+title: Challenges
+layout: collection
+permalink: /challenges/
+collection: challenge
+entries_layout: grid
+classes: wide
+---
+
+<h2>By Year</h2>
+<h3>2025</h3>
+<ul>
+  {% for post in site.posts %} {% if post.categories contains "challenge" and
+  post.date | date: "%Y" == "2025" %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %} {% endfor %}
+</ul>
