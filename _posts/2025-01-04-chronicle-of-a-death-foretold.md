@@ -19,7 +19,7 @@ LOVE
 
 ## Challenges
 
-✅ [World Tour 2025](/challenge/2025/01/10/WT.html)
+✅ [World Tour 2025]({% post_url 2025-01-10-WT %})
 
 <details>
   <summary></summary>
