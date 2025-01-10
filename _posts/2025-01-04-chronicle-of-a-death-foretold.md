@@ -19,8 +19,6 @@ LOVE
 
 ## Challenges
 
-<!-- TODO: link doesn't work -->
-
 ✅ [World Tour 2025](/challenge/2025/01/10/WT.html)
 
 <details>
