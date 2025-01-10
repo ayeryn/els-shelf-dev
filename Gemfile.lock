@@ -352,6 +352,7 @@ DEPENDENCIES
   jekyll (~> 3.10.0)
   jekyll-feed (~> 0.12)
   jekyll-github-metadata
+  jekyll-include-cache
   minima (~> 2.5)
   rubocop
   tzinfo (>= 1, < 3)

@@ -4,6 +4,7 @@ description: >-
   Eryn's reading journal (dev)
 baseurl: / 
 url: "https://ayeryn.github.io" 
+include: ["_pages"]
 
 # Author
 author:
@@ -12,16 +13,34 @@ author:
 
 # Build
 # theme: jekyll-theme-yat
-remote_theme: broccolini/swiss
-theme_color: yellow
+remote_theme: mmistakes/minimal-mistakes@4.26.2
+minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
+  - jekyll-include-cache
 github:
   repository: ayeryn/els-shelf-dev
 
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
+collections:
+  challenges:
+    output: true
+    permalink: /:collection/:path/
 
 
 
