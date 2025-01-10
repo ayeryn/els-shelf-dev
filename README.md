@@ -18,3 +18,4 @@ Trigger a deployment to `deploy` branch in `els-shelf-live` repository when ther
 
 - Ignore files:
   - `README.md`
+  - GitHub config files (`.github/`)
