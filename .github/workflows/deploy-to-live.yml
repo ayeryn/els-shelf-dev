@@ -33,7 +33,7 @@ jobs:
 
       - name: Merge main into deploy
         run: |
-          git merge main --no-edit --allow-unrelated-histories
+          git merge main --no-edit
 
       - name: Push changes to els-shelf-live
         run: |
