@@ -1,0 +1,16 @@
+---
+title: Challenges
+layout: collection
+permalink: /challenges/
+collection: challenge
+entries_layout: grid
+classes: wide
+---
+
+<h1>By Year</h1>
+<h2></h2>
+<ul>
+  {% for post in site.posts %} {% if post.categories contains "challenge" %}
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endif %} {% endfor %}
+</ul>

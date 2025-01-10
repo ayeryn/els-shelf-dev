@@ -2,9 +2,7 @@
 layout: single
 title: "2025 Reading Challenges"
 date: 2025-01-10
-# categories: challenge
+categories: challenge
 ---
 
-1. World Tour
-2. Nonfiction
-3. Deep Dark
+2025 challenge, TBD....

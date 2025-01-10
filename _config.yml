@@ -38,7 +38,7 @@ defaults:
       related: true
 
 collections:
-  challenges:
+  challenge:
     output: true
     permalink: /:collection/:path/
 
