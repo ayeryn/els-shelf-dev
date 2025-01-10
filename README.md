@@ -4,7 +4,7 @@ This is the dev environment for creating and testing content on reading blog
 
 ## URL
 
-https://ayeryn.github.io/els-shelf-dev/
+https://els-shelf.github.io/blog-dev/
 
 ## Technologies
 
