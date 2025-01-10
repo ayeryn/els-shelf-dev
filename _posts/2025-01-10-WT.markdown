@@ -17,16 +17,11 @@ Prompts completed: 3 / **8**
 
 > _Books and authors link to Goodreads pages (when available)_
 
-| Country      | Book (link to GR)             | Author          | Language | Review (/10)                                                 |
-| ------------ | ----------------------------- | --------------- | -------- | ------------------------------------------------------------ |
-| **China**    | The Seventh Day               |                 | Chinese  |                                                              |
-| **China**    |                               |                 |          |                                                              |
-| **Poland**   |                               |                 |          |                                                              |
-| **Poland**   |                               |                 |          |                                                              |
-| **Norway**   | The Bat                       |                 |          |                                                              |
-| **Columbia** | Chronicle of A Death Foretold | Gabriel Marquez | Spanish  | [9.5](/review/2025/01/04/chronicle-of-a-death-foretold.html) |
-| **Italy**    | The Lost Daughter             |                 |          |                                                              |
-| **Poland**   | Empusium                      |                 |          |                                                              |
+| Country  | Book                              | Author          | Review (/10)                                                 |
+| -------- | --------------------------------- | --------------- | ------------------------------------------------------------ |
+| China    | **The Seventh Day**               | Yu Hua          | 6                                                            |
+| Norway   | **The Bat**                       | Jo Nesbo        | 7                                                            |
+| Columbia | **Chronicle of A Death Foretold** | Gabriel Marquez | [9.5](/review/2025/01/04/chronicle-of-a-death-foretold.html) |
 
 ## Challenge Details
 
