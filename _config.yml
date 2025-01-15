@@ -1,7 +1,6 @@
 # Site 
 title: EL's Shelf (dev)
-description: >- 
-  Eryn's reading journal (dev)
+description: Eryn's reading journal (dev)
 baseurl: "/blog-dev"
 url: "https://els-shelf.github.io/"
 include: ["_pages"]
@@ -12,7 +11,9 @@ title_separator: "|"
 author:
   name: Eryn
   avatar: "/assets/images/avatar.jpg"
-  bio: "I am an **amazing** person."
+  bio: |
+    Reading journal.
+    Love everything except for Romance, favs are sci-fi and mystery.
   location: "USA"
   links:
     - label: "Goodreads"
@@ -23,14 +24,15 @@ author:
 
 # Build
 remote_theme: mmistakes/minimal-mistakes@4.26.2
-minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "sunrise" 
+# "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-include-cache
 github:
-  repository: ayeryn/els-shelf-dev
+  repository: els-shelf/blog-dev
 
 social:
   links:
@@ -46,7 +48,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      # comments: true
       share: true
       related: true
       show_date: true
