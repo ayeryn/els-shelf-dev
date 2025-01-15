@@ -11,7 +11,7 @@ title_separator: "|"
 # Author
 author:
   name: Eryn
-  avatar: "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/avatar.jpg"
   bio: "I am an **amazing** person."
   location: "USA"
   links:
