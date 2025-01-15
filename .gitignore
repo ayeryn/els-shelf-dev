@@ -1,6 +1,40 @@
-_site
-.sass-cache
-.jekyll-cache
+# Jekyll-specific
+_site/
+.sass-cache/
+.jekyll-cache/
 .jekyll-metadata
-vendor
+*.lock
+*.gem
+vendor/
+.bundle/
+
+# Log files
+log/
+*.log
+
+# Temporary files and folders
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Build scripts or IDE settings
+node_modules/
+yarn.lock
+package-lock.json
+
+# Ignore uploaded static files (if any)
+uploads/
+assets/uploads/
+
+# Ignore sensitive configuration
+.env
+
+# Site
 .vscode/
+
+# For the localization feature to work. 
+_data/ui_text.yml
