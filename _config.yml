@@ -5,6 +5,8 @@ description: >-
 baseurl: "/blog-dev"
 url: "https://els-shelf.github.io/"
 include: ["_pages"]
+locale: "en-US"
+title_separator: "|"
 
 # Author
 author:
@@ -14,13 +16,12 @@ author:
   location: "USA"
   links:
     - label: "Goodreads"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-brands fa-goodreads"
       url: "https://www.goodreads.com/user/show/6110731-eryn"
 
 
 
 # Build
-# theme: jekyll-theme-yat
 remote_theme: mmistakes/minimal-mistakes@4.26.2
 minimal_mistakes_skin: "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -30,6 +31,10 @@ plugins:
   - jekyll-include-cache
 github:
   repository: ayeryn/els-shelf-dev
+
+social:
+  links:
+    - "https://www.goodreads.com/user/show/6110731-eryn"
 
 
 defaults:
@@ -44,6 +49,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
 
 collections:
   challenge:
