@@ -17,11 +17,11 @@ Prompts completed: 3 / **8**
 
 > _Books and authors link to Goodreads pages (when available)_
 
-| Country  | Book                              | Author          | Review (/10)                                                   |
-| -------- | --------------------------------- | --------------- | -------------------------------------------------------------- |
-| China    | **The Seventh Day**               | Yu Hua          | [6]({% post_url 2025-01-01-monthly-review %})                  |
-| Norway   | **The Bat**                       | Jo Nesbo        | [7]({% post_url 2025-01-01-monthly-review %})                  |
-| Columbia | **Chronicle of A Death Foretold** | Gabriel Marquez | [9.5]({% post_url 2025-01-04-chronicle-of-a-death-foretold %}) |
+| Country  | Book                              | Author          | Review (/10)                                                 |
+| -------- | --------------------------------- | --------------- | ------------------------------------------------------------ |
+| China    | **The Seventh Day**               | Yu Hua          | [2]({% post_url 2025-01-01-monthly-review %})                |
+| Norway   | **The Bat**                       | Jo Nesbo        | [3]({% post_url 2025-01-01-monthly-review %})                |
+| Columbia | **Chronicle of A Death Foretold** | Gabriel Marquez | [5]({% post_url 2025-01-04-chronicle-of-a-death-foretold %}) |
 
 ## Challenge Details
 
